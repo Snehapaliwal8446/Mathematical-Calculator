@@ -18,7 +18,7 @@ body{
 .container p{margin-bottom: 2px;
                 font-size:large;
                 font-weight:300px;
-                background-image: url(/web-d/thapatec/desk.webp);
+                background-image: url(desk.webp);
                 background-size: contain;
                 background-clip: text;
                 -webkit-background-clip: text;
